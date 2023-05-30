@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">app diary</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nim">NIM     : 10120133</string>
+    <string name="nama">Nama   : Muhammad Saeful Rizki</string>
+    <string name="kelas">Kelas : IF - 4</string>
+    <string name="email">Email : muhammadsaefulrizki04@gmail.com</string>
+    <string name="add">Add Diary</string>
+    <string name="page2">Page 2</string>
+    <string name="penjelasan">App ini adalah aplikasi buku catatan harian/diary yang dimana fitur
+    fiturnya terdapat ada profil,home, dan juga diary. Di Dalam diary ini anda bisa menambahakan kegiatan
+    sehari - hari anda dan di masukkan ke dalam dan di simpan di dalam aplikasi ini tersebut</string>
+    <string name="page1"> Page 1</string>
+    <string name="welcome"> Selamat Datang </string>
+    <string name="intro"> Di App Diary </string>
+
+</resources>
